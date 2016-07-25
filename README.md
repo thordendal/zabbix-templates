@@ -2,4 +2,5 @@
 This repo contains some useful Zabbix templates and scripts for
 some popular services.
 
-[php-fpm](php-fpm)
+## List of currently available templates:
+* [php-fpm](php-fpm)
